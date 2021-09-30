@@ -1,4 +1,5 @@
-### Hi there 👋
-[![hczs's GitHub stats](https://github-readme-stats.vercel.app/api?username=hczs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hczs)](https://github.com/anuraghazra/github-readme-stats)
+###  :tada:
+- :bookmark: 后端开发工程师 Java & Python
+- :hammer: 工具控
 
+<img align="right" alt="hczs's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hczs&show_icons=true"> </img>
