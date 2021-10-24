@@ -1,5 +1,5 @@
 ###  :tada: Hi there
-- :bookmark: 后端开发工程师 Java & Python
+- :bookmark: 后端开发工程师
 - :hammer: 工具控
 ### 🌟 Github Status
 <p align="center">
