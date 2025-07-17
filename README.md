@@ -1,6 +1,6 @@
 ###  :tada: Hi there
-- :bookmark: 全栈开发工程师
-- :hammer: 工具控
+- :bookmark: Full-stack developer
+- :hammer: Tool enthusiast
 ### 🌟 Github Status
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hczs&show_icons=true&theme=graywhite" alt="my github stats" width="420" height="165"/>&nbsp;
